@@ -1,4 +1,4 @@
-# 👋 Hello!
+# 👋 Sup!
 
 You can call me **Hafid**. I work with Javascript Ecosystem, Embedded / Firmware Eng. 
 
