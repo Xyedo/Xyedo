@@ -2,7 +2,7 @@
 
 You can call me **Hafid**. I work with Javascript Ecosystem, Embedded / Firmware Eng. 
 
-Currently learning Fullstack Dev in Javascript.
+Currently learning Fullstack Dev in Javascript and Go.
 
 let's connect on twitter! Feel free to dm me for discussion!
 
@@ -13,6 +13,7 @@ let's connect on twitter! Feel free to dm me for discussion!
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyedo&layout=compact&theme=react&hide=php&langs_count=6" />
 </div>
 
+Trust me i wrote more typescript in private repo 😁
 <!---
 Xyedo/Xyedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
