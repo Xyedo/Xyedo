@@ -1,8 +1,8 @@
 # 👋 Sup!
 
-You can call me **Hafid**. I work with Javascript Ecosystem, Embedded / Firmware Eng. 
+You can call me **Hafid**. Im T Shaped Engineer Focusing On Firmware/Embedded Software using C on baremetal on AVR micro (arduino) and Arm Cortex Family. I also can be Front-End Eng using React & Solid, Backend using Node.js And Go
 
-Currently learning Fullstack Dev in Javascript and Go.
+Currently learning Goroutine and longpath learning on embedded FreeRTOS.
 
 let's connect on twitter! Feel free to dm me for discussion!
 
@@ -13,7 +13,7 @@ let's connect on twitter! Feel free to dm me for discussion!
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyedo&layout=compact&theme=react&hide=php&langs_count=6" />
 </div>
 
-Trust me i wrote more typescript in private repo 😁
+Trust me i wrote more typescript and Go in private repo 😁
 <!---
 Xyedo/Xyedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
