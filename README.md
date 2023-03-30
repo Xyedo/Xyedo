@@ -1,8 +1,7 @@
 # 👋 Sup!
 
-You can call me **Hafid**. Im T Shaped Engineer Focusing On Firmware/Embedded Software using C on baremetal on AVR micro (arduino) and Arm Cortex Family. I also can be Front-End Eng using React & Solid, Backend using Node.js And Go
+You can call me **Hafid**. I able to do Front-End Eng using React & Solid, Backend using Node.js And Go
 
-Currently learning Goroutine and long-path learning on embedded FreeRTOS.
 
 let's connect on twitter! Feel free to dm me for discussion!
 
